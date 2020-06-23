@@ -1,7 +1,7 @@
 .DS_Store
 node_modules/
 # I want demo on github page
-dist/
+# dist/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
